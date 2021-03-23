@@ -1,3 +1,3 @@
-Ceci est un test de git
+Ceci est mon test de git
 J'utilise git !
 git est un logiciel de gestion de versions décentralisé.
