@@ -1,4 +1,4 @@
-Ceci est un test de git
+Ceci est mon test de git
 git a été créé par Linus Torvalds en 2005.
 J'utilise git !
 git est un logiciel de gestion de versions décentralisé.
